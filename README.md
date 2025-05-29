@@ -19,3 +19,4 @@ Once GitHub Pages is enabled, my portfolio will be available here.
 
 ## 📫 Connect with Me
 GitHub: [LearningL2025](https://github.com/LearningL2025)
+<!-- Trigger rebuild -->
